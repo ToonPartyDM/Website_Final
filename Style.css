@@ -1,0 +1,48 @@
+#header{
+	background-color: #094f41;
+		font-size: 28px;
+}
+
+#header ul{
+	display: flex; 
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	list-style-type: none;
+	color: #000000;
+}
+
+#Body h1{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	color: #000000;
+}
+
+#Body h2{
+	text-align: center;
+	margin-left: auto;
+	margin-right: right;
+}
+
+a {
+		text-decoration: none;
+		text-align: center;
+		color: #000000;
+}
+
+#bodyinfo{
+	background-color: #094f41;
+	width: 1250px;
+	color: #ffffff;
+	font-size: 20px;
+	padding: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+#Body ul{
+	list-style-type: none;
+	color: #FA4616;
+}
